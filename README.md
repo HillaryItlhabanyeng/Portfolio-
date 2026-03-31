@@ -52,3 +52,10 @@ Delivered exceptional customer service in a high-volume retail environment, ensu
  
 **Thabiso Makinta**  
 📞 067 677 9369 &nbsp;|&nbsp; 📧 StanceWorx@icloud.com
+
+## 🎥 Mock Interview Video
+
+<video width="600" controls>
+  <source src="Video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
